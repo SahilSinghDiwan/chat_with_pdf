@@ -16,7 +16,7 @@ def get_requirements(file_path: str)->List[str]:
     return requirements
 
 setup(
-    name="ml_demo_projects",
+    name="chat with pdf",
     version="0.0.1",
     author="Sahil Singh Diwan",
     author_email="diwna.sahilsingh@gmail.com",
